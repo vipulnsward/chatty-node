@@ -5,6 +5,9 @@ Example of using ActionCable in nodejs and webpack. Demonstrates usage in ReactJ
 
 ### Usage
 
+First go ahead and check out how https://github.com/vipulnsward/actioncable-examples works, 
+and start it up.
+
 ```
 npm install
 npm start

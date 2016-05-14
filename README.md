@@ -5,7 +5,7 @@ Example of using Action Cable in nodejs and webpack. Demonstrates usage in React
 
 ### Usage
 
-First go ahead and check out how https://github.com/vipulnsward/actioncable-examples works, 
+First go ahead and check out how https://github.com/vipulnsward/actioncable-examples/tree/es6 works, 
 and start it up.
 
 ```

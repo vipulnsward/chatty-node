@@ -1,7 +1,7 @@
 chatty-node
 ===========
 
-Example of using ActionCable in nodejs and webpack. Demonstrates usage in ReactJS.
+Example of using Action Cable in nodejs and webpack. Demonstrates usage in ReactJS.
 
 ### Usage
 
